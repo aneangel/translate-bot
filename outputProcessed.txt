@@ -1,0 +1,238 @@
+2022
+Semana de la Educación en Ciencias de la Computación
+Actividades diarias
+
+Gracias por acompañarnos en la celebración de la Semana de la Educación en Ciencias de la Computación. Utilice esta presentación de diapositivas para acceder a los recursos para cada una de las actividades diarias. Hay notas del maestro/a para cada día de la semana.
+También encontrará enlaces a varios otros sitios y recursos que pueden ayudarlo/a a integrar aún más las ciencias de la computación y el pensamiento computacional en su salón de clases. ¡Mira las notas del orador para obtener consejos y trucos!
+Consulte la descripción general de la semana de CS y la página de incentivos para maestros para ver cuál es el tema de cada día y las formas de ganar tecnología para su salón de clases.
+Esperamos ver todas las formas en que exhibe las ciencias de la computación en su salón de clases durante la semana. Comparta lo que está sucediendo en sus salones de clase enviando fotos por correo electrónico a Erin Asamoto y/o en Twitter en #CS4SCCS. (sin caras de estudiantes)
+Notas del maestro/a:
+
+Semana de CS
+General description
+
+Incentivos de
+Maestros
+
+SCCS y COE CS Actividades Semanales
+Haga clic en el calendario arriba para ir a las actividades semanales. Es necesario registrarse para asistir a las diferentes actividades y sesiones.
+
+Cada día hay una CS "Palabra del día". Una excelente manera de atraer a la comunidad escolar y generar entusiasmo es usar estas palabras diarias.
+Todos los días hay vídeos y actividades para involucrar a los estudiantes. Basado en el tiempo, haga que los estudiantes vean el video o completen las actividades en esta presentación de diapositivas o en el tablero de opciones de actividades. Cada día elige una actividad que funcione para su clase.
+¡Incluso puede hacer que los empleados y los estudiantes envíen fotos o ejemplos de lo que están haciendo para celebrar CSEdWeek y destáquelos enviando un correo electrónico a ErinAsamoto@sccs.net O en Twitter con #CS4SCCS para ganar premios durante la semana! (sin rostros de estudiantes por favor)
+
+
+Notas del Maestro/a
+
+Lunes
+¡Los algoritmos están en todas partes!
+Regístrese para el evento Equity Town Hall esta noche de 6 -7:30 PM
+
+Algoritmo
+Instrucciones paso a paso que siguen los humanos y las computadoras para completar una tarea.
+CS Palabra del dia
+
+Los algoritmos son la piedra angular tanto de la Ciencia de Computación como del pensamiento computacional. Enseñar a nuestros estudiantes la importancia de los algoritmos y la secuenciación les permite comprender los procesos que intervienen en la realización de tareas.
+Las próximas diapositivas mostrarán los algoritmos que encontramos a diario. Desde preparar el desayuno hasta crear un conjunto de pasos de baile, los algoritmos son vitales para nuestras actividades diarias. Las actividades 1 y 2 tienen enlaces en la parte superior a una lección en la que puede trabajar con sus alumnos de forma sincrónica y asincrónica. Mientras decide qué actividades asignar a sus alumnos, piensa en cómo pueden compartir los algoritmos que se les ocurran. ¡Recuerde publicar imágenes de algoritmos enviando un correo electrónico a ErinAsmaoto@sccs.net O publicando en Twitter con #CS4SCCS para un paquete de premios Pear Deck!
+Notas del Maestro/a:
+
+Actividad 1: El Algoritmo Cocinero/a
+Al Algoritmo Concincero le encanta crear algoritmos en su cocina. Mire su video y luego piense qué algoritmos sigues cada día.
+Algoritmo Cocinero diapositivas de actividades
+Profesores- miren el video si el tiempo es limitado O usen las Diapositivas de Actividades para completar con los estudiantes y compartir en Twitter #CS4SCCS
+Algoritmo Cocinero Video via MyVRSpot: https://live.myvrspot.com/iframe?v=fNDIwNzAxM2VkMzUwNmUzOWMzY2YyNmJlODUxNDk2ZmY
+
+
+Actividad 2: Apretón de manos secreto
+¡Los apretones de manos también son algoritmos! Después de ver el vídeo, crea un apretón de manos súper genial que puedas enseñar a tus amigos.
+Plan de lección de apretón de manos secreto
+Secret Handshake Video via MyVRSpot: https://live.myvrspot.com/iframe?v=fMDlmOGU4MTNhZjQ5YmJiYTY2NDAzN2M3M2VjZjZjZDc
+
+
+Baloncesto Algoritmo
+
+¡¡¡¡¡¡¡Actividad 3: Vamos a bailar!!!!!!!
+¡Bailando es el algoritmo perfecto para levantarnos y movernos! Práctica bailando con el video abajo y luego crea tu propio algoritmo de baile.
+Haz clic AQUÍ para ver el plan de la lección. O simplemente muestra el vídeo y haz que los alumnos creen sus propios pasos de baile.
+Opción Flipgrid si quieres que los alumnos publiquen sus propios pasos.
+¿Necesitas música? Haz clic AQUÍ
+
+Can't Stop the Feeling Video via MyVRSpot: https://live.myvrspot.com/iframe?v=fNTQwNDJmN2RlNzEwYTliYmI2MjY5MzM0Njg2NzRiYTE
+
+Nota para el profesor: Como posible idea de proyecto, pide a tus alumnos que graben su baile utilizando una plataforma como Flipgrid o WeVideo y que lo compartan con el resto de la clase. Es una forma estupenda de que los alumnos aprendan unos de otros.
+
+
+Actividad 4: espejo de movimiento (solo grados 7-12)
+La Inteligencia Artificial (IA) puede utilizarse para detectar patrones en nuestro movimiento y seguir algoritmos para realizar determinadas tareas. Prueba el Google Move Mirror y comprueba cómo puedes buscar imágenes utilizando distintos movimientos corporales.
+Haga clic AQUÍ para ir al sitio y empezar a hacer sus propios movimientos.
+Este programa requiere que el alumno permita el acceso a su cámara. Hay un botón que les permite crear un GIF de ellos moviéndose con todas las fotos. Les pregunta si son mayores de 13 años.
+Esto puede ser algo divertido para hacer en clase. Si el alumno está en casa, por favor, asegúrese de que obtiene el permiso de sus padres antes de hacer esa parte del programa.
+Los estudiantes deben asegurarse de tener espacio a su alrededor, ya que tendrán que estar de pie lejos de su dispositivo para que la cámara pueda obtener una visión completa de ellos.
+
+
+Martes
+Conozcamos a un héroe de CS
+
+Hoy se trata de enseñar a los alumnos por qué hacemos informática y los trabajos que pueden tener los programadores. Hay algunos vídeos que puedes mostrar a tus alumnos, pero por favor, previsualízalos primero para asegurarte de que funcionan en tu clase. Hay un montón de actividades que puedes encontrar AQUÍ para celebrar a los Héroes de la Informática con 6 lecciones diferentes.  También hay toneladas de vídeos pregrabados para todos los niveles AQUÍ. (Sugerencia: ¡Deja que los alumnos elijan a su héroe!)
+Ampliación: Haz que los alumnos reflexionen sobre lo que quieren hacer cuando sean mayores y sobre cómo la sociedad de la información puede formar parte de ello. Pueden hacerlo en un tablón de debate en Google Classroom, utilizando Flip (formalmente FlipGrid), o simplemente en un debate en clase.
+Recuerda: Publica fotos de las actividades de CS Hero enviándolas por correo electrónico a ErinAsmaoto@sccs.net O publicándolas en Twitter con #CS4SCCS ¡para café y donuts por mi cuenta para todo el personal!
+(Sin caras de estudiantes, por favor)
+Notas de maestro/a:
+
+Programador
+Una persona que escribe programas de computadora. Crean y prueban programas para asegurarse de que funcionan.
+Palabra del día
+
+Héroes de la informática
+
+¿Cómo empiezan los "programadores"?
+Lo que la mayoría de las escuelas no enseñan Video via MyVRSpot: https://live.myvrspot.com/iframe?v=fMWRkYWE1ZGJiNDdhYmZiOWE2MTUyMGQ5MmI2YmI1NjY
+
+
+Cómo la informática hace películas
+0:00 - 6:33 (Cómo se utiliza el CS para hacer películas de Pixar)
+6:33 - 25:35 (Entrevista a un animador)
+Vídeo Meet Code Creators vía MyVRSpot: https://live.myvrspot.com/iframe?v=fMzI5ZGE3NmVlOTdhOWJiNWU0YzU2YWI3NDJlYWY3MDY
+
+
+
+Codificación de oradores locales grabados
+Haga clic aquí para obtener una Guía del profesor para ver a los oradores invitados
+Haga clic aquí para ver
+invitados locales para K-12
+
+Haga clic aquí para ir a la página web para 20 min Poema Arte
+
+Miércoles
+Robots programadores
+
+
+El objetivo de las actividades de hoy es mostrar cómo los robots siguen algoritmos al igual que los humanos. Los alumnos tienen la oportunidad de ver un vídeo sobre 10 robots diferentes que ayudan a los humanos en su vida diaria. A continuación, pueden pensar en un robot que les gustaría que se inventara y compartir sus ideas escribiendo en la diapositiva o creando un vídeo.
+En la sección de actividades, hemos enlazado un emulador en línea para los cursos superiores e inferiores. En K-2, los alumnos codificarán un BeeBot. Hay varias cuadrículas disponibles para que las utilicen haciendo clic en el menú desplegable de la página web. En 3-5, los alumnos podrán trabajar en la codificación del Robot Raíz experimentando con los diferentes bloques de codificación.
+Recuerda: ¡Publica fotos del trabajo con el Robot enviándolas por correo electrónico a ErinAsmaoto@sccs.net O publicándolas en Twitter con #CS4SCCS para obtener un Pack Robot y realizar un montón de actividades en tu propia aula con #CS4SCCS!  (Sin caras de estudiantes por favor)
+Notas para el profesor:
+
+Codificación
+Dar instrucciones a una computadora para que complete una tarea.
+CS Palabra del día
+
+Robots en el mundo real
+¿Se te ocurre algún robot que te gustaría que se inventara? Escribe tu respuesta o publica un vídeo en el espacio siguiente.
+10 Robots que hacen la vida más fácil Video via MyVRSpot: https://live.myvrspot.com/iframe?v=fMjUwMmQzNzBmMDI0MGJiNDU3N2U3Yzk5MDgwZTMzNzU
+
+
+Programación con BeeBots (K-2)
+Practiquemos nuestras habilidades de programación utilizando un emulador en línea. Podemos programar nuestro BeeBot para que recorra diferentes cuadrículas. Asegúrate de mirar cuántos pasos hay en tu algoritmo cuando codifiques. Esto es genial para el abecedario o las direcciones a través de nuestra comunidad.
+Haz clic en esta imagen para ir a la página web del emulador BeeBot. Cambia la alfombrilla para adaptarla a las necesidades de tu alumno.
+
+Codificación con Root (3-5)
+Practiquemos nuestras habilidades de codificación utilizando un emulador en línea. Intenta programar tu Root para que dibuje diferentes formas. Asegúrate de mirar cuántos pasos hay en tu algoritmo cuando codifiques. Opciones: Deje que los estudiantes exploren por su cuenta, o haga la simulación como clase.
+Haz clic en esta imagen para ir a la página web del emulador Root.
+
+Programación con Root (6-12)
+Practiquemos nuestras habilidades de programación utilizando un emulador en línea. Intenta programar tu Root para que dibuje diferentes formas, baile o sea amable. Asegúrate de mirar cuántos pasos hay en tu algoritmo cuando codifiques. Opciones: Deja que los alumnos exploren por su cuenta, o haz la simulación en clase.
+Haz clic en esta imagen para ir al sitio web del emulador.
+
+Jueves
+Codificación informática
+¡CS Playground GRATIS en MAH Downtown esta noche de 4-6PM! ¡No hay necesidad de registrarse sólo recordar a los estudiantes a venir! ¡Folleto AQUÍ!
+
+Para los recursos asíncronos de hoy, le hemos proporcionado cuatro opciones. Al dar estos a los estudiantes:
+Por favor, incluya la diapositiva de vocabulario
+Elija UNA (tal vez dos) opciones para que practiquen la codificación.
+Opciones:
+Code.org requiere que los profesores creen una cuenta gratuita y la vinculen a su Google Classroom para que los alumnos puedan acceder rápidamente a completar los puzzles. No hay más preparación que crear la cuenta y publicar. (3-12)
+Conscience Coding se sumerge en cómo los estudiantes se convierten en usuarios y creadores éticos de tecnología. (Debate opcional sobre el sesgo de la IA y la codificación de un ordenador para jugar a un juego). (6-12)
+Scratch se puede utilizar sin crear cuentas de estudiante, pero los proyectos de codificación no se guardarán. Las instrucciones para configurarlo están enlazadas en la diapositiva. Elimínelas antes de dárselas a los alumnos. Los alumnos más jóvenes pueden utilizar ScratchJR. (TK-12)
+CodeSpark requiere que configure cuentas antes de que los estudiantes lo utilicen. Las instrucciones para configurarlo están enlazadas en la diapositiva. Elimine esto antes de dárselo a los estudiantes. (3-12)
+Hour of Code requiere un inicio de sesión de Google con un solo clic y guardará el trabajo de los estudiantes. (TK-12)
+
+Recuerda: ¡Publica fotos de los libros de Bug y Debugging for CS para tenerlos en tu propia aula enviando un correo electrónico a ErinAsmaoto@sccs.net O publicando en Twitter con #CS4SCCS! (Sin caras de estudiantes por favor)
+Notas para el profesor:
+
+Bug
+Un problema en un programa.
+Depurar
+Solucionar el problema de un programa.
+CS Palabras del día
+
+Código.org
+¿Sabías que la informática fomenta la creatividad y enseña a los alumnos habilidades de pensamiento crítico para convertirse en aprendices proactivos? Por eso la escuela primaria es el momento ideal para introducir a los alumnos en la informática. Seis estudios diferentes demuestran que los niños que estudian informática obtienen mejores resultados en otras asignaturas, destacan en la resolución de problemas y tienen un 17% más de probabilidades de ir a la universidad.
+Lección completa de Code.org con vídeo dirigido por el profesor, ¡sin preparación!
+Grados 3-12
+
+Utilizando la presentación de diapositivas Conscience Coding, permite a tus alumnos aprender a través del código y cómo podemos ser usuarios y creadores éticos de tecnología.
+Grados 6-12
+Codificación consciente
+
+Scratch
+Configure cuentas para sus estudiantes o simplemente permítales explorar (su trabajo no se guardará) comenzando tutoriales de codificación en Scratch.
+Cómo configurar cuentas de estudiante en Scratch.
+¡Para TK-2 ScratchJr.org es un gran recurso también!
+Grados 3-12
+
+Código Spark
+Cree una cuenta para que sus estudiantes jueguen en una exploración autodirigida de habilidades de CS. Se puede acceder utilizando el navegador web o la aplicación del juego.
+Cómo crear una cuenta CodeSpark
+Grados 3-12
+
+La Hora del Código
+Utilizando el sitio web de La Hora del Código, elige una actividad apropiada para la edad o permite que tus alumnos elijan una actividad para participar en el aprendizaje a través del código.
+Grados TK-12
+
+Viernes
+Actividades desconectadas
+
+
+A medida que los avances en tecnología siguen creciendo, es importante que hagamos saber a los estudiantes que aún pueden aprender los conceptos relacionados con la informática sin estar delante de un ordenador.
+CS Unplugged es una forma de enseñar a los alumnos los conceptos relacionados con la informática mediante el uso de juegos y actividades.
+En la Actividad 1, los alumnos aprenden sobre condicionales jugando a Simón Dice. Esto se puede hacer durante la reunión de la mañana o a lo largo de la jornada escolar. (TK-2)
+En la Actividad 2, los alumnos se embarcan en una misión de rescate utilizando sus cuerpos para navegar como programador y robot. Diviértete viendo cómo se contagian las risas mientras los alumnos se programan unos a otros. (TK-3)
+En la Actividad 3, los alumnos pueden construir una carrera de obstáculos en casa o en el colegio para que otros naveguen por ella. Esta actividad se centra en el concepto de pensamiento computacional de construir modelos. (3-5)
+En la Actividad 4, los alumnos aprenden a escribir en el lenguaje que utilizan los ordenadores, más conocido como Código Binario. Utilizando la tabla, crearán su nombre en Código Binario. (3-12)
+En la Actividad 5, los alumnos aprenderán qué es la informática y utilizarán el análisis y la descomposición de datos para resolver el acertijo de la Logic Party Quest. (3-12)
+Notas para el profesor:
+Recuerda: ¡Publica fotos de las Actividades Unplugged enviándolas por correo electrónico a ErinAsmaoto@sccs.net O publicándolas en Twitter con #CS4SCCS para recibir un Paquete para Maestros con #CS4SCCS! (Sin caras de estudiantes por favor)
+
+Desenchufado
+Aprender conceptos de ciencias de la computación a través del uso de juegos y actividades.
+CS Palabra del Día
+
+Actividad 1: (TK-2) Code Bot Dice
+A Code Bot le encantan los condicionales. En codificación, los condicionales se llaman sentencias Si/Entonces. Por ejemplo, SI está lloviendo, ENTONCES necesito mi paraguas.
+
+Practica las condicionales con Code Bot jugando a un juego. SI oyes "Código Bot dice", ENTONCES tienes que seguir la instrucción. SI no oyes "Código Bot dice", ENTONCES tienes que quedarte quieto.
+
+Profesores: Esto se puede hacer usando la presentación de diapositivas con visuales para MLL y estudiantes jóvenes o realizando tu propio juego de "Code Bot dice".
+
+Haz clic en Código Bot para jugar.
+
+Actividad 2: (TK-3)
+Misión de rescate
+Los alumnos aprenderán a dar instrucciones claras en esta misión de rescate desenchufada. Los alumnos se convertirán en el programador, el probador y el bot mientras resuelven rompecabezas con sus cuerpos o en papel. ¡Utiliza tu alfombra para crear un montón de risas!  
+
+
+
+Actividad 3: (3-5)
+Codificación de la carrera de obstáculos
+Con el permiso de un adulto o de tu profesor, crea la carrera de obstáculos más épica que puedas con objetos de la casa o de la clase. Graba un vídeo tuyo o de otra persona completando la carrera y compártelo con tu profesor.
+Vídeo de la carrera de obstáculos vía MyVRSpot: https://live.myvrspot.com/iframe?v=fNTllZDUwY2NkNWI4NjcxMjYwODM4ZjViZTgwZmE3NmI
+
+
+Actividad 4: (3-12) Escritura binaria
+¿Puedes usar la tabla de la izquierda para crear tu nombre en Código Binario? (Haz clic AQUÍ para obtener ayuda)
+Puedes dibujarlo en papel usando lápices de colores y rotuladores, hacerlo recortando y pegando papel de diferentes colores? ¡Prueba esta actividad en Google Slides usando Pear Deck o en un Google Doc para imprimir!
+¿Quieres dar un paso más y comprar gomas elásticas de dos colores? Utiliza esta actividad. (¡También es una buena actividad de ampliación en casa!)
+
+Actividad 5: (3-12) Juego de lógica
+¿Qué es la informática? Prueba esta actividad en Google Slides para aprender más y completar la actividad desenchufada de la Logic Party Quest en la que los alumnos utilizan la descomposición y el análisis de datos para resolver el acertijo.
+
+¿Quieres dar un paso más y comprar gomas elásticas de dos colores? Utiliza esta actividad. (¡También es genial como actividad de extensión en casa!)
+
+¡¡¡¡¡Gracias!!!!!
+Quiero darte las gracias por hacer de las Ciencias de la Computación y el Pensamiento Computacional parte de tu rutina en el aula. Si quieres ver más actividades, consulta todos los tableros que he creado.
+
+¡Feliz Semana de la Enseñanza de la Informática!
+¿Tienes preguntas? Ponte en contacto conmigo.
+ErinAsamoto@sccs.net
+
